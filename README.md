@@ -1,0 +1,1 @@
+odin project assignment to practice html taught through the lessons by making a simple website
